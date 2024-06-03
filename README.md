@@ -1,4 +1,4 @@
-# API Testing Using Postman And Neuman 
+# API Testing Using Postman And Newman 
 
 - This repository contains a sample project for API testing using Postman and Newman. It demonstrates how to automate API tests and integrate them into a CI/CD pipeline.
 
@@ -10,7 +10,7 @@
 - [Running Tests](#Running_Tests)
 - [Result](#Result)
   - [Postman](#Postman)
-  - [Neuman](#Neuman)
+  - [Newman](#Newman)
 
 ## Installation
   
@@ -43,8 +43,8 @@
 ![zzzz](https://github.com/Yassmin-gamal/API-Testing_Postman-Neuman/assets/66153260/87ccba44-c91d-4b44-811e-5fa7052450d7)
 
 
-### Neuman 
+### Newman 
 
-- Using CMD Neuman (5 Iterations)
+- Using CMD Newman (5 Iterations)
 
 ![ssss](https://github.com/Yassmin-gamal/API-Testing_Postman-Neuman/assets/66153260/3234b627-2da9-4c0c-93ef-6c9751535060)
