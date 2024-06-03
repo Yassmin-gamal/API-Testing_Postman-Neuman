@@ -1,0 +1,80 @@
+{
+	"id": "cd5e268a-b8a1-47ed-834c-af2478117b03",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://simple-books-api.glitch.me",
+			"enabled": false
+		},
+		{
+			"key": "BASEURL",
+			"value": "https://simple-books-api.glitch.me",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "b4e76e1b188dbe47ba566b03de71c5cd35592b8f7fef6abdd2fe02a4300f1650",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "0bf6e80890c8fbec17e8583834fc0bcc1b7da98a347c5a880895d9b134824b91",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "a28d85cd5173609f0fa3fca47961524417f0b90ad3f7b3452e964243a2184fee",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": null,
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "bookId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "acessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-06-03T10:53:42.390Z",
+	"_postman_exported_using": "Postman/10.24.25"
+}
