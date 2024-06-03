@@ -38,13 +38,13 @@
 ## Result
 
 ### Postman 
-- Using Test Runner (5 Iteration)
+- Using Test Runner (5 Iterations)
  
 ![zzzz](https://github.com/Yassmin-gamal/API-Testing_Postman-Neuman/assets/66153260/87ccba44-c91d-4b44-811e-5fa7052450d7)
 
 
 ### Neuman 
 
-- Using CMD Neuman (5 Iteration)
+- Using CMD Neuman (5 Iterations)
 
 ![ssss](https://github.com/Yassmin-gamal/API-Testing_Postman-Neuman/assets/66153260/3234b627-2da9-4c0c-93ef-6c9751535060)
