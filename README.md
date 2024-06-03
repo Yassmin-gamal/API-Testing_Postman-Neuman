@@ -6,8 +6,8 @@
  
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Project Structure](#Project_Structure)
-- [Running Tests](#Running_Tests)
+- [Project Structure](#Project-Structure)
+- [Running Tests](#Running-Tests)
 - [Result](#Result)
   - [Postman](#Postman)
   - [Newman](#Newman)
